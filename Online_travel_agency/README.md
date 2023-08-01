@@ -1,6 +1,6 @@
 To download the dataset https://1drv.ms/u/s!AvPxibfbWBItkVlc3dXoQb1k2MaD?e=1zXQRQ
 
-# Online travel agency: Data analysis and Machine Learning project
+# Online travel agency: Data analysis / Machine Learning project
 
 This project is using data from an online travel agency (OTA) to predict whether a user will book a hotel after viewing and clicking on the listing. The data has various features, such as user location, hotel rating, price, etc. I used Python to clean, analyze, and model the data.
 
