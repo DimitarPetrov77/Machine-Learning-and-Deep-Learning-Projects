@@ -16,4 +16,4 @@ I calculated the click-through rate (CTR) and conversion rate (CVR) for the data
 
 I split the data into 80% train and 20% test sets and normalized the features. I used Logistic regression and CatBoost to predict the "booked" variable. I tuned the CatBoost hyperparameters with grid search. The best ones are: {'depth': 6, 'l2_leaf_reg': 1, 'learning_rate': 0.1}.
 
-The CatBoost model has high precision, recall, f1-score and accuracy for both classes. It can correctly predict 99.39% of the test instances. The model works well on this data set.
+The CatBoost model has high precision, recall, f1-score and accuracy for both classes. It can correctly predict 99.39% of the test instances. The model works well on this dataset.
