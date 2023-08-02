@@ -5,7 +5,7 @@ My name is Dimitar Petrov and I am a data science and machine learning enthusias
 
 
 You can find more details and code for each project in their respective folders in this repository. :nerd_face: 
-# These are the practical and theoretical textbooks that I have studied in the last three years and that form the foundation of my knowledge in Data Science, Machine Learning, and Statistics.
+# These are the practical and theoretical textbooks that I have studied in the last three years and that form half of the foundation of my knowledge in Data Science, Machine Learning, and Statistics.
 * Data Science from Scratch by Joel Grus
 * The hundred-page machine learning book (Burkov, Andriy)
 * Deep Learning (Ian Goodfellow, Yoshua Bengio, Aaron Courville)
